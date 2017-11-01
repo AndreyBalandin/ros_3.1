@@ -3,6 +3,7 @@ project(converter)
 
 find_package(catkin REQUIRED COMPONENTS
   geometry_msgs
+  visualization_msgs
   roscpp
 )
 
